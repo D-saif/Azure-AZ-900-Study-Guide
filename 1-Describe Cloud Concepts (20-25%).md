@@ -1,6 +1,6 @@
-# AZ-900: Describe Cloud Concepts (20-25%)
+# 1. Describe Cloud Concepts (20-25%)
 
-## Identify the benefits and considerations of using cloud services
+## 1.1 Identify the benefits and considerations of using cloud services
 
 * Identify the benefits of cloud computing, such as:
     * [High Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
@@ -14,7 +14,7 @@
     * [OpEx vs. CapEx: The Real Cloud Computing Cost Advantage](https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/)
 * Describe the [consumption-based model](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-price)
 
-## Describe the differences between categories of cloud services
+## 1.2 Describe the differences between categories of cloud services
 
 * Describe the [shared responsibility model](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 * Describe [Platform-as-a-Service (PaaS)](https://azure.microsoft.com/en-ca/overview/what-is-paas/)
@@ -24,7 +24,7 @@
 * Describe [Software-as-a-Service (SaaS)](https://azure.microsoft.com/en-ca/overview/what-is-saas/)
 * Identify a [service type](https://azure.microsoft.com/en-ca/overview/types-of-cloud-computing/) based on a use case
 
-## Describe the differences between types of cloud computing
+## 1.3 Describe the differences between types of cloud computing
 
 * Define [Cloud Computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
 * Describe [Public cloud](https://azure.microsoft.com/en-ca/overview/what-is-a-public-cloud/)
@@ -32,7 +32,7 @@
 * Describe [Hybrid cloud](https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/)
 * Compare and contrast the [3 types of cloud computing](https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds/)
 
-## Hands-on study material at Microsoft Learn
+## 1.4 Hands-on study material at Microsoft Learn
 
 * [Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts)
 
